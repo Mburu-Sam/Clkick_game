@@ -32,7 +32,6 @@ A fun and simple browser-based game where you click a button to increase your sc
 
 ## 📸 Preview
 
-![Click Game Screenshot](screenshot.png)  
 > *(You can upload a screenshot and rename it `screenshot.png` to display here)*
 
 ---
